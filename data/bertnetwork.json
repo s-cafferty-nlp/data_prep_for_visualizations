@@ -1,0 +1,1754 @@
+[
+ {
+  "X": 4.5454926,
+  "Y": 7.8392496,
+  "label": "USA",
+  "country": "AFGHANISTAN"
+ },
+ {
+  "X": 4.222244,
+  "Y": 6.0091276,
+  "label": "USA",
+  "country": "ALBANIA"
+ },
+ {
+  "X": 8.806642,
+  "Y": 7.6778774,
+  "label": "USA",
+  "country": "ALGERIA"
+ },
+ {
+  "X": 3.3646271,
+  "Y": 8.651127,
+  "label": "USA",
+  "country": "ARGENTINA"
+ },
+ {
+  "X": 4.8397994,
+  "Y": 7.009523,
+  "label": "USA",
+  "country": "ARMENIA"
+ },
+ {
+  "X": 3.5558221,
+  "Y": 7.75955,
+  "label": "USA",
+  "country": "AUSTRALIA"
+ },
+ {
+  "X": 4.2311373,
+  "Y": 6.961434,
+  "label": "USA",
+  "country": "AUSTRIA"
+ },
+ {
+  "X": 6.084521,
+  "Y": 4.701847,
+  "label": "USA",
+  "country": "AZERBAIJAN"
+ },
+ {
+  "X": 3.1348667,
+  "Y": 8.39677,
+  "label": "USA",
+  "country": "BAHAMAS"
+ },
+ {
+  "X": 9.117919,
+  "Y": 8.082391,
+  "label": "USA",
+  "country": "BAHRAIN"
+ },
+ {
+  "X": 2.2847517,
+  "Y": 8.919662,
+  "label": "USA",
+  "country": "BANGLADESH"
+ },
+ {
+  "X": 3.023048,
+  "Y": 8.230936,
+  "label": "USA",
+  "country": "BARBADOS"
+ },
+ {
+  "X": 6.6317277,
+  "Y": 0.9713677,
+  "label": "USA",
+  "country": "BELARUS"
+ },
+ {
+  "X": 4.2297077,
+  "Y": 7.2779813,
+  "label": "USA",
+  "country": "BELGIUM"
+ },
+ {
+  "X": 2.8944936,
+  "Y": 8.102482,
+  "label": "USA",
+  "country": "BELIZE"
+ },
+ {
+  "X": 5.275545,
+  "Y": 9.7785,
+  "label": "USA",
+  "country": "BENIN"
+ },
+ {
+  "X": 3.1779504,
+  "Y": 8.112739,
+  "label": "USA",
+  "country": "BERMUDA"
+ },
+ {
+  "X": -0.40271094,
+  "Y": 2.771355,
+  "label": "USA",
+  "country": "BOLIVIA"
+ },
+ {
+  "X": 4.3075843,
+  "Y": 6.2461643,
+  "label": "USA",
+  "country": "BOSNIA AND HERZEGOVINA"
+ },
+ {
+  "X": 1.571688,
+  "Y": 8.336133,
+  "label": "USA",
+  "country": "BOTSWANA"
+ },
+ {
+  "X": 1.3704104,
+  "Y": 3.0957878,
+  "label": "USA",
+  "country": "BRAZIL"
+ },
+ {
+  "X": 2.7180054,
+  "Y": 7.947868,
+  "label": "USA",
+  "country": "BRUNEI DARUSSALAM"
+ },
+ {
+  "X": 6.3820558,
+  "Y": 5.5948863,
+  "label": "USA",
+  "country": "BULGARIA"
+ },
+ {
+  "X": 5.4499354,
+  "Y": 9.964402,
+  "label": "USA",
+  "country": "BURKINA FASO"
+ },
+ {
+  "X": 1.4557987,
+  "Y": 8.0352745,
+  "label": "USA",
+  "country": "BURUNDI"
+ },
+ {
+  "X": 2.900496,
+  "Y": 6.3719563,
+  "label": "USA",
+  "country": "CABO VERDE"
+ },
+ {
+  "X": 2.486268,
+  "Y": 8.0422125,
+  "label": "USA",
+  "country": "CAMBODIA"
+ },
+ {
+  "X": 5.1239996,
+  "Y": 9.60195,
+  "label": "USA",
+  "country": "CAMEROON"
+ },
+ {
+  "X": 4.1658,
+  "Y": 7.5243154,
+  "label": "USA",
+  "country": "CANADA"
+ },
+ {
+  "X": 5.1372194,
+  "Y": 9.597142,
+  "label": "USA",
+  "country": "CENTRAL AFRICAN REPUBLIC"
+ },
+ {
+  "X": -0.36655334,
+  "Y": 2.705689,
+  "label": "USA",
+  "country": "CHILE"
+ },
+ {
+  "X": 6.7563534,
+  "Y": 5.832119,
+  "label": "USA",
+  "country": "CHINA"
+ },
+ {
+  "X": -0.8869116,
+  "Y": 2.8235216,
+  "label": "USA",
+  "country": "COLOMBIA"
+ },
+ {
+  "X": 5.0679617,
+  "Y": 9.549304,
+  "label": "USA",
+  "country": "COMOROS"
+ },
+ {
+  "X": 5.7185287,
+  "Y": 10.252215,
+  "label": "USA",
+  "country": "CONGO"
+ },
+ {
+  "X": 5.6232,
+  "Y": 10.182977,
+  "label": "USA",
+  "country": "CONGO"
+ },
+ {
+  "X": -0.55373573,
+  "Y": 2.8362167,
+  "label": "USA",
+  "country": "COSTA RICA"
+ },
+ {
+  "X": 5.606867,
+  "Y": 10.137632,
+  "label": "USA",
+  "country": "C\u00d4TE D'IVOIRE"
+ },
+ {
+  "X": 4.5419283,
+  "Y": 6.9234123,
+  "label": "USA",
+  "country": "CROATIA"
+ },
+ {
+  "X": -0.6515243,
+  "Y": 2.7652733,
+  "label": "USA",
+  "country": "CUBA"
+ },
+ {
+  "X": 3.1981182,
+  "Y": 7.4891624,
+  "label": "USA",
+  "country": "CYPRUS"
+ },
+ {
+  "X": 4.2059636,
+  "Y": 6.124223,
+  "label": "USA",
+  "country": "CZECHIA"
+ },
+ {
+  "X": 4.098681,
+  "Y": 7.0684304,
+  "label": "USA",
+  "country": "DENMARK"
+ },
+ {
+  "X": 5.034305,
+  "Y": 9.441027,
+  "label": "USA",
+  "country": "DJIBOUTI"
+ },
+ {
+  "X": -0.5916068,
+  "Y": 2.609186,
+  "label": "USA",
+  "country": "DOMINICAN REPUBLIC"
+ },
+ {
+  "X": -0.46734437,
+  "Y": 2.740759,
+  "label": "USA",
+  "country": "ECUADOR"
+ },
+ {
+  "X": 9.133735,
+  "Y": 8.037955,
+  "label": "USA",
+  "country": "EGYPT"
+ },
+ {
+  "X": -0.86058706,
+  "Y": 2.9002469,
+  "label": "USA",
+  "country": "EL SALVADOR"
+ },
+ {
+  "X": -0.5104565,
+  "Y": 3.018201,
+  "label": "USA",
+  "country": "EQUATORIAL GUINEA"
+ },
+ {
+  "X": 4.4558372,
+  "Y": 7.3301826,
+  "label": "USA",
+  "country": "ESTONIA"
+ },
+ {
+  "X": 1.7594986,
+  "Y": 8.174133,
+  "label": "USA",
+  "country": "ESWATINI"
+ },
+ {
+  "X": 1.2544777,
+  "Y": 8.249995,
+  "label": "USA",
+  "country": "ETHIOPIA"
+ },
+ {
+  "X": 2.711463,
+  "Y": 8.390793,
+  "label": "USA",
+  "country": "FIJI"
+ },
+ {
+  "X": 3.9059267,
+  "Y": 6.76495,
+  "label": "USA",
+  "country": "FINLAND"
+ },
+ {
+  "X": 5.5604506,
+  "Y": 10.093194,
+  "label": "USA",
+  "country": "FRANCE"
+ },
+ {
+  "X": 5.677263,
+  "Y": 10.191221,
+  "label": "USA",
+  "country": "GABON"
+ },
+ {
+  "X": 2.4075506,
+  "Y": 7.2788897,
+  "label": "USA",
+  "country": "GAMBIA"
+ },
+ {
+  "X": 6.4359536,
+  "Y": 5.667674,
+  "label": "USA",
+  "country": "GEORGIA"
+ },
+ {
+  "X": 1.5301011,
+  "Y": 8.47596,
+  "label": "USA",
+  "country": "GHANA"
+ },
+ {
+  "X": 4.6188474,
+  "Y": 6.8585134,
+  "label": "USA",
+  "country": "GREECE"
+ },
+ {
+  "X": -0.6651133,
+  "Y": 2.8662667,
+  "label": "USA",
+  "country": "GUATEMALA"
+ },
+ {
+  "X": 5.5676737,
+  "Y": 10.105435,
+  "label": "USA",
+  "country": "GUINEA"
+ },
+ {
+  "X": 2.4922886,
+  "Y": 7.2414007,
+  "label": "USA",
+  "country": "GUYANA"
+ },
+ {
+  "X": 5.218951,
+  "Y": 9.707439,
+  "label": "USA",
+  "country": "HAITI"
+ },
+ {
+  "X": 4.371324,
+  "Y": 7.4942937,
+  "label": "USA",
+  "country": "HOLY SEE"
+ },
+ {
+  "X": -0.62995094,
+  "Y": 2.8812032,
+  "label": "USA",
+  "country": "HONDURAS"
+ },
+ {
+  "X": 3.7367616,
+  "Y": 7.471072,
+  "label": "USA",
+  "country": "ICELAND"
+ },
+ {
+  "X": 2.5247767,
+  "Y": 8.838113,
+  "label": "USA",
+  "country": "INDIA"
+ },
+ {
+  "X": 2.624245,
+  "Y": 6.784387,
+  "label": "USA",
+  "country": "INDONESIA"
+ },
+ {
+  "X": 9.169099,
+  "Y": 7.1955824,
+  "label": "USA",
+  "country": "IRAQ"
+ },
+ {
+  "X": 3.3962085,
+  "Y": 7.747393,
+  "label": "USA",
+  "country": "IRELAND"
+ },
+ {
+  "X": 4.372305,
+  "Y": 7.4502892,
+  "label": "USA",
+  "country": "ISRAEL"
+ },
+ {
+  "X": 3.9217963,
+  "Y": 6.607303,
+  "label": "USA",
+  "country": "ITALY"
+ },
+ {
+  "X": 2.7341132,
+  "Y": 8.385595,
+  "label": "USA",
+  "country": "JAMAICA"
+ },
+ {
+  "X": 3.1626027,
+  "Y": 8.496006,
+  "label": "USA",
+  "country": "JAPAN"
+ },
+ {
+  "X": 9.139532,
+  "Y": 8.135273,
+  "label": "USA",
+  "country": "JORDAN"
+ },
+ {
+  "X": 6.537443,
+  "Y": 5.517145,
+  "label": "USA",
+  "country": "KAZAKHSTAN"
+ },
+ {
+  "X": 1.403041,
+  "Y": 8.44572,
+  "label": "USA",
+  "country": "KENYA"
+ },
+ {
+  "X": 6.553251,
+  "Y": 5.7121997,
+  "label": "USA",
+  "country": "KOREA"
+ },
+ {
+  "X": 9.226813,
+  "Y": 7.226715,
+  "label": "USA",
+  "country": "KUWAIT"
+ },
+ {
+  "X": 6.689301,
+  "Y": 0.8642374,
+  "label": "USA",
+  "country": "KYRGYZSTAN"
+ },
+ {
+  "X": 2.5245392,
+  "Y": 7.9113736,
+  "label": "USA",
+  "country": "LAOS"
+ },
+ {
+  "X": 4.1677837,
+  "Y": 6.162644,
+  "label": "USA",
+  "country": "LATVIA"
+ },
+ {
+  "X": 9.217268,
+  "Y": 7.7564034,
+  "label": "USA",
+  "country": "LEBANON"
+ },
+ {
+  "X": 1.7222002,
+  "Y": 8.014618,
+  "label": "USA",
+  "country": "LESOTHO"
+ },
+ {
+  "X": 2.0812137,
+  "Y": 7.859321,
+  "label": "USA",
+  "country": "LIBERIA"
+ },
+ {
+  "X": 9.188345,
+  "Y": 7.3356404,
+  "label": "USA",
+  "country": "LIBYA"
+ },
+ {
+  "X": 4.297358,
+  "Y": 6.8091083,
+  "label": "USA",
+  "country": "LITHUANIA"
+ },
+ {
+  "X": 4.0126085,
+  "Y": 7.114971,
+  "label": "USA",
+  "country": "LUXEMBOURG"
+ },
+ {
+  "X": 2.5153928,
+  "Y": 6.7887974,
+  "label": "USA",
+  "country": "MADAGASCAR"
+ },
+ {
+  "X": 1.6035453,
+  "Y": 8.358828,
+  "label": "USA",
+  "country": "MALAWI"
+ },
+ {
+  "X": 2.5476534,
+  "Y": 8.601698,
+  "label": "USA",
+  "country": "MALAYSIA"
+ },
+ {
+  "X": 5.403781,
+  "Y": 9.987758,
+  "label": "USA",
+  "country": "MALI"
+ },
+ {
+  "X": 3.0621853,
+  "Y": 7.748007,
+  "label": "USA",
+  "country": "MALTA"
+ },
+ {
+  "X": 9.111447,
+  "Y": 7.5036573,
+  "label": "USA",
+  "country": "MAURITANIA"
+ },
+ {
+  "X": 2.5015576,
+  "Y": 8.407837,
+  "label": "USA",
+  "country": "MAURITIUS"
+ },
+ {
+  "X": 2.8297403,
+  "Y": 7.9708867,
+  "label": "USA",
+  "country": "MICRONESIA"
+ },
+ {
+  "X": 2.6722965,
+  "Y": 7.0741367,
+  "label": "USA",
+  "country": "MOLDOVA"
+ },
+ {
+  "X": 6.6369944,
+  "Y": 5.469313,
+  "label": "USA",
+  "country": "MONGOLIA"
+ },
+ {
+  "X": 4.3069606,
+  "Y": 6.290293,
+  "label": "USA",
+  "country": "MONTENEGRO"
+ },
+ {
+  "X": 8.939429,
+  "Y": 7.91232,
+  "label": "USA",
+  "country": "MOROCCO"
+ },
+ {
+  "X": 2.983172,
+  "Y": 6.4872346,
+  "label": "USA",
+  "country": "MOZAMBIQUE"
+ },
+ {
+  "X": 2.1192284,
+  "Y": 8.027888,
+  "label": "USA",
+  "country": "MYANMAR"
+ },
+ {
+  "X": 2.3316116,
+  "Y": 8.983785,
+  "label": "USA",
+  "country": "NEPAL"
+ },
+ {
+  "X": 4.043768,
+  "Y": 7.120075,
+  "label": "USA",
+  "country": "NETHERLANDS"
+ },
+ {
+  "X": 3.2911546,
+  "Y": 7.96796,
+  "label": "USA",
+  "country": "NEW ZEALAND"
+ },
+ {
+  "X": -0.6455098,
+  "Y": 3.0144432,
+  "label": "USA",
+  "country": "NICARAGUA"
+ },
+ {
+  "X": 5.199361,
+  "Y": 9.671069,
+  "label": "USA",
+  "country": "NIGER"
+ },
+ {
+  "X": 1.3600798,
+  "Y": 8.577959,
+  "label": "USA",
+  "country": "NIGERIA"
+ },
+ {
+  "X": 4.525998,
+  "Y": 7.0406585,
+  "label": "USA",
+  "country": "NORTH MACEDONIA"
+ },
+ {
+  "X": 4.06169,
+  "Y": 7.170548,
+  "label": "USA",
+  "country": "NORWAY"
+ },
+ {
+  "X": 9.091635,
+  "Y": 7.828085,
+  "label": "USA",
+  "country": "OMAN"
+ },
+ {
+  "X": 2.4329903,
+  "Y": 8.921936,
+  "label": "USA",
+  "country": "PAKISTAN"
+ },
+ {
+  "X": 9.037404,
+  "Y": 8.05078,
+  "label": "USA",
+  "country": "PALESTINE"
+ },
+ {
+  "X": -0.71771675,
+  "Y": 2.8548539,
+  "label": "USA",
+  "country": "PANAMA"
+ },
+ {
+  "X": 2.4798825,
+  "Y": 7.440318,
+  "label": "USA",
+  "country": "PAPUA NEW GUINEA"
+ },
+ {
+  "X": -0.31590053,
+  "Y": 2.6024225,
+  "label": "USA",
+  "country": "PARAGUAY"
+ },
+ {
+  "X": -0.54040915,
+  "Y": 3.024888,
+  "label": "USA",
+  "country": "PERU"
+ },
+ {
+  "X": 2.8196404,
+  "Y": 8.63107,
+  "label": "USA",
+  "country": "PHILIPPINES"
+ },
+ {
+  "X": 4.237285,
+  "Y": 6.4001412,
+  "label": "USA",
+  "country": "POLAND"
+ },
+ {
+  "X": 4.176882,
+  "Y": 6.9520745,
+  "label": "USA",
+  "country": "PORTUGAL"
+ },
+ {
+  "X": 9.2195015,
+  "Y": 7.7907796,
+  "label": "USA",
+  "country": "QATAR"
+ },
+ {
+  "X": 3.8981023,
+  "Y": 6.2584,
+  "label": "USA",
+  "country": "ROMANIA"
+ },
+ {
+  "X": 6.5445895,
+  "Y": 0.043796033,
+  "label": "USA",
+  "country": "RUSSIAN FEDERATION"
+ },
+ {
+  "X": 1.4916066,
+  "Y": 8.224033,
+  "label": "USA",
+  "country": "RWANDA"
+ },
+ {
+  "X": 2.8608289,
+  "Y": 7.7985616,
+  "label": "USA",
+  "country": "SAMOA"
+ },
+ {
+  "X": 9.213442,
+  "Y": 7.084421,
+  "label": "USA",
+  "country": "SAUDI ARABIA"
+ },
+ {
+  "X": 5.5165043,
+  "Y": 10.160699,
+  "label": "USA",
+  "country": "SENEGAL"
+ },
+ {
+  "X": 4.075337,
+  "Y": 5.0133343,
+  "label": "USA",
+  "country": "SERBIA"
+ },
+ {
+  "X": 2.2251275,
+  "Y": 8.301085,
+  "label": "USA",
+  "country": "SIERRA LEONE"
+ },
+ {
+  "X": 2.6362534,
+  "Y": 8.547015,
+  "label": "USA",
+  "country": "SINGAPORE"
+ },
+ {
+  "X": 4.3819547,
+  "Y": 6.8072534,
+  "label": "USA",
+  "country": "SLOVAKIA"
+ },
+ {
+  "X": 3.9648223,
+  "Y": 6.724106,
+  "label": "USA",
+  "country": "SLOVENIA"
+ },
+ {
+  "X": 1.3373951,
+  "Y": 7.9677577,
+  "label": "USA",
+  "country": "SOMALIA"
+ },
+ {
+  "X": 1.8120081,
+  "Y": 8.536992,
+  "label": "USA",
+  "country": "SOUTH AFRICA"
+ },
+ {
+  "X": 1.5066881,
+  "Y": 7.934261,
+  "label": "USA",
+  "country": "SOUTH SUDAN"
+ },
+ {
+  "X": -0.54870796,
+  "Y": 2.8354106,
+  "label": "USA",
+  "country": "SPAIN"
+ },
+ {
+  "X": 2.4393024,
+  "Y": 8.722395,
+  "label": "USA",
+  "country": "SRI LANKA"
+ },
+ {
+  "X": 9.042014,
+  "Y": 7.944493,
+  "label": "USA",
+  "country": "SUDAN"
+ },
+ {
+  "X": 2.950254,
+  "Y": 7.649425,
+  "label": "USA",
+  "country": "SURINAME"
+ },
+ {
+  "X": 3.8000612,
+  "Y": 6.9556475,
+  "label": "USA",
+  "country": "SWEDEN"
+ },
+ {
+  "X": 3.7443717,
+  "Y": 7.177483,
+  "label": "USA",
+  "country": "SWITZERLAND"
+ },
+ {
+  "X": 9.200236,
+  "Y": 7.163079,
+  "label": "USA",
+  "country": "SYRIAN ARAB REPUBLIC"
+ },
+ {
+  "X": 6.5303273,
+  "Y": 5.5243096,
+  "label": "USA",
+  "country": "TAJIKISTAN"
+ },
+ {
+  "X": 1.6051136,
+  "Y": 7.895107,
+  "label": "USA",
+  "country": "TANZANIA"
+ },
+ {
+  "X": 2.560242,
+  "Y": 7.835321,
+  "label": "USA",
+  "country": "THAILAND"
+ },
+ {
+  "X": 2.6020825,
+  "Y": 6.7749257,
+  "label": "USA",
+  "country": "TIMOR-LESTE"
+ },
+ {
+  "X": 5.615185,
+  "Y": 10.154544,
+  "label": "USA",
+  "country": "TOGO"
+ },
+ {
+  "X": 3.0841606,
+  "Y": 8.42369,
+  "label": "USA",
+  "country": "TRINIDAD AND TOBAGO"
+ },
+ {
+  "X": 9.093538,
+  "Y": 7.4506416,
+  "label": "USA",
+  "country": "TUNISIA"
+ },
+ {
+  "X": 4.524836,
+  "Y": 5.605857,
+  "label": "USA",
+  "country": "TURKEY"
+ },
+ {
+  "X": 1.5198686,
+  "Y": 8.463085,
+  "label": "USA",
+  "country": "UGANDA"
+ },
+ {
+  "X": 6.6850224,
+  "Y": 1.3717427,
+  "label": "USA",
+  "country": "UKRAINE"
+ },
+ {
+  "X": 9.158502,
+  "Y": 7.994088,
+  "label": "USA",
+  "country": "UNITED ARAB EMIRATES"
+ },
+ {
+  "X": 3.6913826,
+  "Y": 7.700821,
+  "label": "USA",
+  "country": "UNITED KINGDOM"
+ },
+ {
+  "X": 4.4242244,
+  "Y": 7.555786,
+  "label": "USA",
+  "country": "UNITED STATES OF AMERICA"
+ },
+ {
+  "X": -0.45072287,
+  "Y": 2.7407348,
+  "label": "USA",
+  "country": "URUGUAY"
+ },
+ {
+  "X": 6.4451265,
+  "Y": 5.6110835,
+  "label": "USA",
+  "country": "UZBEKISTAN"
+ },
+ {
+  "X": 9.26137,
+  "Y": 7.096542,
+  "label": "USA",
+  "country": "YEMEN"
+ },
+ {
+  "X": 1.5870887,
+  "Y": 8.044719,
+  "label": "USA",
+  "country": "ZAMBIA"
+ },
+ {
+  "X": 1.3626372,
+  "Y": 8.178193,
+  "label": "USA",
+  "country": "ZIMBABWE"
+ },
+ {
+  "X": 4.3668647,
+  "Y": 7.0658803,
+  "label": "USA",
+  "country": "GERMANY"
+ },
+ {
+  "X": 7.68067,
+  "Y": 3.3439555,
+  "label": "RUS",
+  "country": "AFGHANISTAN"
+ },
+ {
+  "X": 4.30834,
+  "Y": 6.00022,
+  "label": "RUS",
+  "country": "ALBANIA"
+ },
+ {
+  "X": 6.0996037,
+  "Y": 0.47969317,
+  "label": "RUS",
+  "country": "ALGERIA"
+ },
+ {
+  "X": 0.22083142,
+  "Y": 2.4120288,
+  "label": "RUS",
+  "country": "ARGENTINA"
+ },
+ {
+  "X": 7.0630875,
+  "Y": -0.9327008,
+  "label": "RUS",
+  "country": "ARMENIA"
+ },
+ {
+  "X": 6.6540794,
+  "Y": 4.156987,
+  "label": "RUS",
+  "country": "AUSTRALIA"
+ },
+ {
+  "X": 5.7926683,
+  "Y": 1.2508019,
+  "label": "RUS",
+  "country": "AUSTRIA"
+ },
+ {
+  "X": 7.417145,
+  "Y": 3.2716143,
+  "label": "RUS",
+  "country": "BAHRAIN"
+ },
+ {
+  "X": 6.896053,
+  "Y": -0.7346571,
+  "label": "RUS",
+  "country": "BELARUS"
+ },
+ {
+  "X": 6.6161747,
+  "Y": 2.54919,
+  "label": "RUS",
+  "country": "BELGIUM"
+ },
+ {
+  "X": 5.6802464,
+  "Y": 1.5100434,
+  "label": "RUS",
+  "country": "BENIN"
+ },
+ {
+  "X": 0.38425156,
+  "Y": 2.3990705,
+  "label": "RUS",
+  "country": "BOLIVIA"
+ },
+ {
+  "X": 6.0695834,
+  "Y": 0.8676946,
+  "label": "RUS",
+  "country": "BOSNIA AND HERZEGOVINA"
+ },
+ {
+  "X": 7.1892147,
+  "Y": 4.36356,
+  "label": "RUS",
+  "country": "BOTSWANA"
+ },
+ {
+  "X": 1.4852912,
+  "Y": 3.0276582,
+  "label": "RUS",
+  "country": "BRAZIL"
+ },
+ {
+  "X": 7.044372,
+  "Y": 4.5694914,
+  "label": "RUS",
+  "country": "BRUNEI DARUSSALAM"
+ },
+ {
+  "X": 7.047208,
+  "Y": -0.9005362,
+  "label": "RUS",
+  "country": "BULGARIA"
+ },
+ {
+  "X": 4.9645915,
+  "Y": 1.7131981,
+  "label": "RUS",
+  "country": "BURUNDI"
+ },
+ {
+  "X": 6.8926244,
+  "Y": 2.611277,
+  "label": "RUS",
+  "country": "CAMBODIA"
+ },
+ {
+  "X": 6.955128,
+  "Y": 3.6604078,
+  "label": "RUS",
+  "country": "CANADA"
+ },
+ {
+  "X": 0.4172759,
+  "Y": 2.3898249,
+  "label": "RUS",
+  "country": "CHILE"
+ },
+ {
+  "X": 7.0098095,
+  "Y": -0.86857826,
+  "label": "RUS",
+  "country": "CHINA"
+ },
+ {
+  "X": 0.9670372,
+  "Y": 2.4917395,
+  "label": "RUS",
+  "country": "COLOMBIA"
+ },
+ {
+  "X": 4.9178486,
+  "Y": 1.7600651,
+  "label": "RUS",
+  "country": "CONGO"
+ },
+ {
+  "X": 5.5097423,
+  "Y": 1.1892588,
+  "label": "RUS",
+  "country": "CONGO"
+ },
+ {
+  "X": 1.1494998,
+  "Y": 2.550812,
+  "label": "RUS",
+  "country": "COSTA RICA"
+ },
+ {
+  "X": 4.969187,
+  "Y": 1.7055875,
+  "label": "RUS",
+  "country": "C\u00d4TE D'IVOIRE"
+ },
+ {
+  "X": 6.373292,
+  "Y": 0.9838379,
+  "label": "RUS",
+  "country": "CROATIA"
+ },
+ {
+  "X": 6.1803484,
+  "Y": 0.5554912,
+  "label": "RUS",
+  "country": "CUBA"
+ },
+ {
+  "X": 6.7307487,
+  "Y": 1.5044672,
+  "label": "RUS",
+  "country": "CYPRUS"
+ },
+ {
+  "X": 6.022935,
+  "Y": 0.87792933,
+  "label": "RUS",
+  "country": "CZECHIA"
+ },
+ {
+  "X": 6.7398844,
+  "Y": 1.374392,
+  "label": "RUS",
+  "country": "DENMARK"
+ },
+ {
+  "X": 0.9286457,
+  "Y": 2.5128586,
+  "label": "RUS",
+  "country": "ECUADOR"
+ },
+ {
+  "X": 8.9958315,
+  "Y": 4.516416,
+  "label": "RUS",
+  "country": "EGYPT"
+ },
+ {
+  "X": 6.829113,
+  "Y": 2.5941827,
+  "label": "RUS",
+  "country": "ERITREA"
+ },
+ {
+  "X": 6.4684796,
+  "Y": 0.51161313,
+  "label": "RUS",
+  "country": "ESTONIA"
+ },
+ {
+  "X": 7.151983,
+  "Y": 3.3261094,
+  "label": "RUS",
+  "country": "ETHIOPIA"
+ },
+ {
+  "X": 6.0720296,
+  "Y": 1.6232324,
+  "label": "RUS",
+  "country": "FINLAND"
+ },
+ {
+  "X": 5.0741315,
+  "Y": 1.7853913,
+  "label": "RUS",
+  "country": "FRANCE"
+ },
+ {
+  "X": 5.2598686,
+  "Y": 1.5524375,
+  "label": "RUS",
+  "country": "GABON"
+ },
+ {
+  "X": 5.682067,
+  "Y": 1.4475307,
+  "label": "RUS",
+  "country": "GERMANY"
+ },
+ {
+  "X": 7.135125,
+  "Y": 4.4925632,
+  "label": "RUS",
+  "country": "GHANA"
+ },
+ {
+  "X": 6.3889623,
+  "Y": 2.1804063,
+  "label": "RUS",
+  "country": "GREECE"
+ },
+ {
+  "X": 1.1347185,
+  "Y": 2.5079904,
+  "label": "RUS",
+  "country": "GUATEMALA"
+ },
+ {
+  "X": 5.1754465,
+  "Y": 1.7014594,
+  "label": "RUS",
+  "country": "GUINEA"
+ },
+ {
+  "X": 1.5455704,
+  "Y": 3.0114288,
+  "label": "RUS",
+  "country": "GUINEA-BISSAU"
+ },
+ {
+  "X": 7.0483,
+  "Y": 2.4367027,
+  "label": "RUS",
+  "country": "GUYANA"
+ },
+ {
+  "X": 7.038088,
+  "Y": 3.0216396,
+  "label": "RUS",
+  "country": "HOLY SEE"
+ },
+ {
+  "X": -0.6992596,
+  "Y": 2.7410748,
+  "label": "RUS",
+  "country": "HONDURAS"
+ },
+ {
+  "X": 6.234798,
+  "Y": 1.8627115,
+  "label": "RUS",
+  "country": "HUNGARY"
+ },
+ {
+  "X": 6.938463,
+  "Y": 3.8390257,
+  "label": "RUS",
+  "country": "ICELAND"
+ },
+ {
+  "X": 6.753374,
+  "Y": 4.4511065,
+  "label": "RUS",
+  "country": "INDIA"
+ },
+ {
+  "X": 6.3679013,
+  "Y": 4.445906,
+  "label": "RUS",
+  "country": "INDONESIA"
+ },
+ {
+  "X": 7.552043,
+  "Y": 3.3208973,
+  "label": "RUS",
+  "country": "IRAN"
+ },
+ {
+  "X": 8.866918,
+  "Y": 4.401767,
+  "label": "RUS",
+  "country": "IRAQ"
+ },
+ {
+  "X": 7.0603905,
+  "Y": 3.5464087,
+  "label": "RUS",
+  "country": "IRELAND"
+ },
+ {
+  "X": 6.8813267,
+  "Y": 3.752581,
+  "label": "RUS",
+  "country": "ISRAEL"
+ },
+ {
+  "X": 5.1932163,
+  "Y": 1.8894688,
+  "label": "RUS",
+  "country": "ITALY"
+ },
+ {
+  "X": 6.93861,
+  "Y": 4.512491,
+  "label": "RUS",
+  "country": "JAMAICA"
+ },
+ {
+  "X": 6.4615765,
+  "Y": 0.6651782,
+  "label": "RUS",
+  "country": "JAPAN"
+ },
+ {
+  "X": 8.346659,
+  "Y": 4.0850677,
+  "label": "RUS",
+  "country": "JORDAN"
+ },
+ {
+  "X": 6.6583343,
+  "Y": -0.36686432,
+  "label": "RUS",
+  "country": "KAZAKHSTAN"
+ },
+ {
+  "X": 7.084423,
+  "Y": 2.8545585,
+  "label": "RUS",
+  "country": "KENYA"
+ },
+ {
+  "X": 6.4787574,
+  "Y": 0.5118836,
+  "label": "RUS",
+  "country": "KOREA"
+ },
+ {
+  "X": 6.384405,
+  "Y": 0.5261327,
+  "label": "RUS",
+  "country": "KOREA"
+ },
+ {
+  "X": 7.6307745,
+  "Y": 3.4237082,
+  "label": "RUS",
+  "country": "KUWAIT"
+ },
+ {
+  "X": 6.763356,
+  "Y": -0.5565778,
+  "label": "RUS",
+  "country": "LATVIA"
+ },
+ {
+  "X": 8.893163,
+  "Y": 4.46868,
+  "label": "RUS",
+  "country": "LEBANON"
+ },
+ {
+  "X": 7.0282393,
+  "Y": -0.76004124,
+  "label": "RUS",
+  "country": "LITHUANIA"
+ },
+ {
+  "X": 6.0184484,
+  "Y": 0.79707617,
+  "label": "RUS",
+  "country": "LUXEMBOURG"
+ },
+ {
+  "X": 6.27892,
+  "Y": 0.9236723,
+  "label": "RUS",
+  "country": "MADAGASCAR"
+ },
+ {
+  "X": 7.023558,
+  "Y": 3.6673343,
+  "label": "RUS",
+  "country": "MALAYSIA"
+ },
+ {
+  "X": 6.7381644,
+  "Y": 4.478649,
+  "label": "RUS",
+  "country": "MALTA"
+ },
+ {
+  "X": 6.6524825,
+  "Y": 1.5644343,
+  "label": "RUS",
+  "country": "MAURITIUS"
+ },
+ {
+  "X": 0.6519593,
+  "Y": 2.4218931,
+  "label": "RUS",
+  "country": "MEXICO"
+ },
+ {
+  "X": 6.8013396,
+  "Y": -0.5988734,
+  "label": "RUS",
+  "country": "MONGOLIA"
+ },
+ {
+  "X": 6.2772884,
+  "Y": 0.8246487,
+  "label": "RUS",
+  "country": "MONTENEGRO"
+ },
+ {
+  "X": 4.951517,
+  "Y": 1.710687,
+  "label": "RUS",
+  "country": "MOROCCO"
+ },
+ {
+  "X": 1.5989928,
+  "Y": 3.0867882,
+  "label": "RUS",
+  "country": "MOZAMBIQUE"
+ },
+ {
+  "X": 6.476149,
+  "Y": 0.52081865,
+  "label": "RUS",
+  "country": "NEPAL"
+ },
+ {
+  "X": 6.886548,
+  "Y": 3.8400156,
+  "label": "RUS",
+  "country": "NETHERLANDS"
+ },
+ {
+  "X": 6.6630445,
+  "Y": 1.5922955,
+  "label": "RUS",
+  "country": "NEW ZEALAND"
+ },
+ {
+  "X": -0.0037954352,
+  "Y": 2.4725232,
+  "label": "RUS",
+  "country": "NICARAGUA"
+ },
+ {
+  "X": 7.2137914,
+  "Y": 3.3708858,
+  "label": "RUS",
+  "country": "NIGERIA"
+ },
+ {
+  "X": 6.762163,
+  "Y": 1.4799876,
+  "label": "RUS",
+  "country": "NORTH MACEDONIA"
+ },
+ {
+  "X": 6.6276937,
+  "Y": 2.2487853,
+  "label": "RUS",
+  "country": "NORWAY"
+ },
+ {
+  "X": 8.963422,
+  "Y": 4.7008386,
+  "label": "RUS",
+  "country": "OMAN"
+ },
+ {
+  "X": 6.7782326,
+  "Y": 4.229754,
+  "label": "RUS",
+  "country": "PAKISTAN"
+ },
+ {
+  "X": 8.775631,
+  "Y": 4.307505,
+  "label": "RUS",
+  "country": "PALESTINE"
+ },
+ {
+  "X": 1.0924774,
+  "Y": 2.4894044,
+  "label": "RUS",
+  "country": "PANAMA"
+ },
+ {
+  "X": 0.018040733,
+  "Y": 2.4913573,
+  "label": "RUS",
+  "country": "PARAGUAY"
+ },
+ {
+  "X": 1.0463774,
+  "Y": 2.4839876,
+  "label": "RUS",
+  "country": "PERU"
+ },
+ {
+  "X": 6.6161413,
+  "Y": 4.460514,
+  "label": "RUS",
+  "country": "PHILIPPINES"
+ },
+ {
+  "X": 5.9721327,
+  "Y": 1.0846918,
+  "label": "RUS",
+  "country": "POLAND"
+ },
+ {
+  "X": 7.20668,
+  "Y": 4.2264524,
+  "label": "RUS",
+  "country": "PORTUGAL"
+ },
+ {
+  "X": 8.834486,
+  "Y": 4.404366,
+  "label": "RUS",
+  "country": "QATAR"
+ },
+ {
+  "X": 2.0300689,
+  "Y": 3.2644181,
+  "label": "RUS",
+  "country": "ROMANIA"
+ },
+ {
+  "X": 7.123771,
+  "Y": 4.3100424,
+  "label": "RUS",
+  "country": "RUSSIAN FEDERATION"
+ },
+ {
+  "X": 6.946941,
+  "Y": 4.1841106,
+  "label": "RUS",
+  "country": "RWANDA"
+ },
+ {
+  "X": 9.001507,
+  "Y": 4.715634,
+  "label": "RUS",
+  "country": "SAUDI ARABIA"
+ },
+ {
+  "X": 6.378624,
+  "Y": 1.4734769,
+  "label": "RUS",
+  "country": "SENEGAL"
+ },
+ {
+  "X": 6.740299,
+  "Y": -0.53145415,
+  "label": "RUS",
+  "country": "SERBIA"
+ },
+ {
+  "X": 6.655964,
+  "Y": 1.1515653,
+  "label": "RUS",
+  "country": "SEYCHELLES"
+ },
+ {
+  "X": 7.167869,
+  "Y": 3.5132842,
+  "label": "RUS",
+  "country": "SINGAPORE"
+ },
+ {
+  "X": 4.0913234,
+  "Y": 4.5805316,
+  "label": "RUS",
+  "country": "SLOVAKIA"
+ },
+ {
+  "X": 6.815274,
+  "Y": 3.8546984,
+  "label": "RUS",
+  "country": "SLOVENIA"
+ },
+ {
+  "X": 6.594963,
+  "Y": 4.296101,
+  "label": "RUS",
+  "country": "SOUTH AFRICA"
+ },
+ {
+  "X": 0.17599471,
+  "Y": 2.3794076,
+  "label": "RUS",
+  "country": "SPAIN"
+ },
+ {
+  "X": 6.64551,
+  "Y": 4.2351155,
+  "label": "RUS",
+  "country": "SRI LANKA"
+ },
+ {
+  "X": 8.827126,
+  "Y": 4.370026,
+  "label": "RUS",
+  "country": "SUDAN"
+ },
+ {
+  "X": 6.327915,
+  "Y": 1.8233044,
+  "label": "RUS",
+  "country": "SWEDEN"
+ },
+ {
+  "X": 5.8658495,
+  "Y": 1.2140421,
+  "label": "RUS",
+  "country": "SWITZERLAND"
+ },
+ {
+  "X": 8.073498,
+  "Y": 3.922387,
+  "label": "RUS",
+  "country": "SYRIAN ARAB REPUBLIC"
+ },
+ {
+  "X": 6.7365255,
+  "Y": 4.296397,
+  "label": "RUS",
+  "country": "TANZANIA"
+ },
+ {
+  "X": 6.7601433,
+  "Y": 1.8780915,
+  "label": "RUS",
+  "country": "THAILAND"
+ },
+ {
+  "X": 6.657701,
+  "Y": 1.988735,
+  "label": "RUS",
+  "country": "TUNISIA"
+ },
+ {
+  "X": 6.4104905,
+  "Y": 2.3169262,
+  "label": "RUS",
+  "country": "TURKEY"
+ },
+ {
+  "X": 6.8963885,
+  "Y": -0.71895516,
+  "label": "RUS",
+  "country": "TURKMENISTAN"
+ },
+ {
+  "X": 6.8560224,
+  "Y": 2.8340437,
+  "label": "RUS",
+  "country": "UGANDA"
+ },
+ {
+  "X": 6.949574,
+  "Y": -0.8118688,
+  "label": "RUS",
+  "country": "UKRAINE"
+ },
+ {
+  "X": 7.789364,
+  "Y": 3.8439722,
+  "label": "RUS",
+  "country": "UNITED ARAB EMIRATES"
+ },
+ {
+  "X": 6.7921915,
+  "Y": 4.5450807,
+  "label": "RUS",
+  "country": "UNITED KINGDOM"
+ },
+ {
+  "X": 6.7363462,
+  "Y": 4.40401,
+  "label": "RUS",
+  "country": "UNITED STATES OF AMERICA"
+ },
+ {
+  "X": 1.270406,
+  "Y": 2.5538166,
+  "label": "RUS",
+  "country": "URUGUAY"
+ },
+ {
+  "X": 6.870341,
+  "Y": -0.80688256,
+  "label": "RUS",
+  "country": "UZBEKISTAN"
+ },
+ {
+  "X": 0.7606952,
+  "Y": 2.4764216,
+  "label": "RUS",
+  "country": "VENEZUELA"
+ },
+ {
+  "X": 6.4831066,
+  "Y": 1.2915809,
+  "label": "RUS",
+  "country": "VIET NAM"
+ },
+ {
+  "X": 8.914514,
+  "Y": 4.483314,
+  "label": "RUS",
+  "country": "YEMEN"
+ },
+ {
+  "X": 6.6813874,
+  "Y": 4.0048237,
+  "label": "RUS",
+  "country": "ZAMBIA"
+ },
+ {
+  "X": 6.701444,
+  "Y": 1.6876438,
+  "label": "RUS",
+  "country": "ZIMBABWE"
+ }
+]
