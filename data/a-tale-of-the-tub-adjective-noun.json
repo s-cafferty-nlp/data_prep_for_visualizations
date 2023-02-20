@@ -1,0 +1,224 @@
+{
+    "nodes": [
+        {
+            "id": "true",
+            "type": "adjective"
+        },
+        {
+            "id": "same",
+            "type": "adjective"
+        },
+        {
+            "id": "great",
+            "type": "adjective"
+        },
+        {
+            "id": "gold",
+            "type": "adjective"
+        },
+        {
+            "id": "present",
+            "type": "adjective"
+        },
+        {
+            "id": "much",
+            "type": "adjective"
+        },
+        {
+            "id": "human",
+            "type": "adjective"
+        },
+        {
+            "id": "new",
+            "type": "adjective"
+        },
+        {
+            "id": "courteous",
+            "type": "adjective"
+        },
+        {
+            "id": "several",
+            "type": "adjective"
+        },
+        {
+            "id": "other",
+            "type": "adjective"
+        },
+        {
+            "id": "greatest",
+            "type": "adjective"
+        },
+        {
+            "id": "public",
+            "type": "adjective"
+        },
+        {
+            "id": "ancient",
+            "type": "adjective"
+        },
+        {
+            "id": "critic",
+            "type": "noun"
+        },
+        {
+            "id": "critics",
+            "type": "noun"
+        },
+        {
+            "id": "time",
+            "type": "noun"
+        },
+        {
+            "id": "deal",
+            "type": "noun"
+        },
+        {
+            "id": "lace",
+            "type": "noun"
+        },
+        {
+            "id": "age",
+            "type": "noun"
+        },
+        {
+            "id": "thought",
+            "type": "noun"
+        },
+        {
+            "id": "work",
+            "type": "noun"
+        },
+        {
+            "id": "nature",
+            "type": "noun"
+        },
+        {
+            "id": "landlord",
+            "type": "noun"
+        },
+        {
+            "id": "reader",
+            "type": "noun"
+        },
+        {
+            "id": "parts",
+            "type": "noun"
+        },
+        {
+            "id": "side",
+            "type": "noun"
+        },
+        {
+            "id": "part",
+            "type": "noun"
+        },
+        {
+            "id": "vogue",
+            "type": "noun"
+        },
+        {
+            "id": "life",
+            "type": "noun"
+        },
+        {
+            "id": "good",
+            "type": "noun"
+        },
+        {
+            "id": "writers",
+            "type": "noun"
+        }
+    ],
+    "links": [
+        {
+            "source": "true",
+            "target": "critic",
+            "count": 14
+        },
+        {
+            "source": "true",
+            "target": "critics",
+            "count": 8
+        },
+        {
+            "source": "same",
+            "target": "time",
+            "count": 7
+        },
+        {
+            "source": "great",
+            "target": "deal",
+            "count": 6
+        },
+        {
+            "source": "gold",
+            "target": "lace",
+            "count": 6
+        },
+        {
+            "source": "present",
+            "target": "age",
+            "count": 5
+        },
+        {
+            "source": "much",
+            "target": "thought",
+            "count": 5
+        },
+        {
+            "source": "great",
+            "target": "work",
+            "count": 5
+        },
+        {
+            "source": "human",
+            "target": "nature",
+            "count": 5
+        },
+        {
+            "source": "new",
+            "target": "landlord",
+            "count": 5
+        },
+        {
+            "source": "courteous",
+            "target": "reader",
+            "count": 4
+        },
+        {
+            "source": "several",
+            "target": "parts",
+            "count": 4
+        },
+        {
+            "source": "other",
+            "target": "side",
+            "count": 4
+        },
+        {
+            "source": "greatest",
+            "target": "part",
+            "count": 4
+        },
+        {
+            "source": "great",
+            "target": "vogue",
+            "count": 4
+        },
+        {
+            "source": "human",
+            "target": "life",
+            "count": 4
+        },
+        {
+            "source": "public",
+            "target": "good",
+            "count": 4
+        },
+        {
+            "source": "ancient",
+            "target": "writers",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "words.adjective.true",
+        "imports": [
+            "words.adjective.critic",
+            "words.adjective.critics"
+        ]
+    },
+    {
+        "name": "words.adjective.same",
+        "imports": [
+            "words.adjective.time"
+        ]
+    },
+    {
+        "name": "words.adjective.great",
+        "imports": [
+            "words.adjective.deal",
+            "words.adjective.work",
+            "words.adjective.vogue"
+        ]
+    },
+    {
+        "name": "words.adjective.gold",
+        "imports": [
+            "words.adjective.lace"
+        ]
+    },
+    {
+        "name": "words.adjective.present",
+        "imports": [
+            "words.adjective.age"
+        ]
+    },
+    {
+        "name": "words.adjective.much",
+        "imports": [
+            "words.adjective.thought"
+        ]
+    },
+    {
+        "name": "words.adjective.human",
+        "imports": [
+            "words.adjective.nature",
+            "words.adjective.life"
+        ]
+    },
+    {
+        "name": "words.adjective.new",
+        "imports": [
+            "words.adjective.landlord"
+        ]
+    },
+    {
+        "name": "words.adjective.courteous",
+        "imports": [
+            "words.adjective.reader"
+        ]
+    },
+    {
+        "name": "words.adjective.several",
+        "imports": [
+            "words.adjective.parts"
+        ]
+    },
+    {
+        "name": "words.adjective.other",
+        "imports": [
+            "words.adjective.side"
+        ]
+    },
+    {
+        "name": "words.adjective.greatest",
+        "imports": [
+            "words.adjective.part"
+        ]
+    },
+    {
+        "name": "words.adjective.public",
+        "imports": [
+            "words.adjective.good"
+        ]
+    },
+    {
+        "name": "words.adjective.ancient",
+        "imports": [
+            "words.adjective.writers"
+        ]
+    },
+    {
+        "name": "words.noun.critic",
+        "imports": []
+    },
+    {
+        "name": "words.noun.critics",
+        "imports": []
+    },
+    {
+        "name": "words.noun.time",
+        "imports": []
+    },
+    {
+        "name": "words.noun.deal",
+        "imports": []
+    },
+    {
+        "name": "words.noun.lace",
+        "imports": []
+    },
+    {
+        "name": "words.noun.age",
+        "imports": []
+    },
+    {
+        "name": "words.noun.thought",
+        "imports": []
+    },
+    {
+        "name": "words.noun.work",
+        "imports": []
+    },
+    {
+        "name": "words.noun.nature",
+        "imports": []
+    },
+    {
+        "name": "words.noun.landlord",
+        "imports": []
+    },
+    {
+        "name": "words.noun.reader",
+        "imports": []
+    },
+    {
+        "name": "words.noun.parts",
+        "imports": []
+    },
+    {
+        "name": "words.noun.side",
+        "imports": []
+    },
+    {
+        "name": "words.noun.part",
+        "imports": []
+    },
+    {
+        "name": "words.noun.vogue",
+        "imports": []
+    },
+    {
+        "name": "words.noun.life",
+        "imports": []
+    },
+    {
+        "name": "words.noun.good",
+        "imports": []
+    },
+    {
+        "name": "words.noun.writers",
+        "imports": []
+    }
+]
